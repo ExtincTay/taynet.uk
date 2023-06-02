@@ -17,4 +17,5 @@ img {
     border-radius: 25px;
     border: white 5px solid;
     background-color: rgba(0, 0, 0, 0.3);
+    display: flex;
 }
