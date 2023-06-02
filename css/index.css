@@ -23,6 +23,7 @@ img {
     align-items: center;
     align-content: center;
     max-width: 55%;
+    margin: auto;
 }
 .socials {
     display: flex;
@@ -32,5 +33,5 @@ img {
     align-content: center;
 }
 .socials>* {
-    margin: 25px;
+    margin: 20px;
 }
