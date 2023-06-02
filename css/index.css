@@ -7,3 +7,8 @@ body {
     font-family: 'Comfortaa';
     src: url(../Comfortaa-VariableFont_wght.ttf);
 }
+
+img {
+    max-width: 25%;
+    border-radius: 50%;
+}
