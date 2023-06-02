@@ -32,7 +32,7 @@ img {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin: 5px;
+    margin: 10px;
 }
 .socials>* {
     margin: 20px;
