@@ -41,7 +41,7 @@ img {
 }
 nav {
     position: absolute;
-    bottom: 0;
+    bottom: 30px;
     display: flex;
     flex-direction: row;
     justify-content: center;
