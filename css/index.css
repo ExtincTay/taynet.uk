@@ -10,7 +10,7 @@ body {
 }
 
 img {
-    max-width: 10%;
+    max-width: 15%;
     border-radius: 50%;
 }
 .holder {
@@ -22,7 +22,7 @@ img {
     justify-content: center;
     align-items: center;
     align-content: center;
-    max-width: 55%;
+    max-width: 50%;
     margin: auto;
 }
 .socials {
