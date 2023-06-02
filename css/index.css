@@ -50,4 +50,9 @@ nav {
     align-content: center;
     text-decoration: none;
     font-size: xx-large;
+    color: white;
+    font-weight: bolder;
+}
+nav>* {
+    margin: 20px;
 }
