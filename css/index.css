@@ -25,6 +25,7 @@ img {
     align-content: center;
     max-width: 50%;
     margin: auto;
+    margin-top: 20%;
 }
 .socials {
     display: flex;
