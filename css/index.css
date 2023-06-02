@@ -65,8 +65,8 @@ nav>* {
     font-weight: bolder;
     color: white;
 }
-.fa-twitter {color: #ffffff}
-.fa-twitter:hover {color: #1DA1F2}
+.twitter {color: #ffffff}
+.twitter:hover {color: #1DA1F2}
 .fa-github {color: #ffffff}
 .fa-github:hover {color: #333}
 .fa-discord {color: #ffffff}
