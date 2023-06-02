@@ -36,3 +36,6 @@ img {
 .socials>* {
     margin: 20px;
 }
+.short-desc {
+    font-weight: bold;
+}
