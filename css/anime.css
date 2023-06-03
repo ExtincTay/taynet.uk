@@ -63,4 +63,7 @@ nav>*:hover {color: rgb(255, 84, 84);}
 h2 {
     text-decoration: none;
     color: white;
+    border-radius: 25px;
+    border: white 5px solid;
+    background-color: rgba(0, 0, 0, 0.3);
 }
