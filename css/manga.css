@@ -38,3 +38,13 @@ nav>* {
 }
 nav>*:hover {color: rgb(255, 84, 84);}
 
+.bookshelf1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.bookshelf1 img {
+    max-width: 10%;
+}
