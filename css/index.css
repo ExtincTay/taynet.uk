@@ -65,15 +65,45 @@ nav>* {
     font-weight: bolder;
     color: white;
 }
-.twitter {color: #ffffff}
+.twitter {
+    color: #ffffff;
+    -moz-transition:color .2s ease-in;
+    -o-transition:color .2s ease-in;
+    -webkit-transition:color .2s ease-in;
+}
 .twitter:hover {color: #1DA1F2}
-.github {color: #ffffff}
+.github {
+    color: #ffffff;
+    -moz-transition:color .2s ease-in;
+    -o-transition:color .2s ease-in;
+    -webkit-transition:color .2s ease-in;
+}
 .github:hover {color: #333}
-.discord {color: #ffffff}
+.discord {
+    color: #ffffff;
+    -moz-transition:color .2s ease-in;
+    -o-transition:color .2s ease-in;
+    -webkit-transition:color .2s ease-in;
+}
 .discord:hover {color: #5865f2}
-.youtube {color: #ffffff}
+.youtube {
+    color: #ffffff;
+    -moz-transition:color .2s ease-in;
+    -o-transition:color .2s ease-in;
+    -webkit-transition:color .2s ease-in;
+}
 .youtube:hover {color: #ff0000}
-.twitch {color: #ffffff}
+.twitch {
+    color: #ffffff;
+    -moz-transition:color .2s ease-in;
+    -o-transition:color .2s ease-in;
+    -webkit-transition:color .2s ease-in;
+}
 .twitch:hover {color: #9146ff}
-.spotify {color: #ffffff}
+.spotify {
+    color: #ffffff;
+    -moz-transition:color .2s ease-in;
+    -o-transition:color .2s ease-in;
+    -webkit-transition:color .2s ease-in;
+}
 .spotify:hover {color: #1db954}
