@@ -46,7 +46,6 @@ nav>*:hover {color: rgb(255, 84, 84);}
     left: 0;
     right: 0;
     text-align: center;
-    text-decoration: none;
 }
 .badges {
     top: 200px;
@@ -56,6 +55,7 @@ nav>*:hover {color: rgb(255, 84, 84);}
     left: 0;
     right: 0;
     text-align: center;
+    text-decoration: none;
 }
 .badges img {
     width: 200px;
