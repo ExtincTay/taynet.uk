@@ -44,7 +44,9 @@ nav>*:hover {color: rgb(255, 84, 84);}
     justify-content: center;
     align-items: center;
     text-align: center;
+    padding: 0;
 }
 .bookshelf1 img {
     max-width: 10%;
+    margin: 0;
 }
