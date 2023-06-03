@@ -39,8 +39,8 @@ nav>* {
 nav>*:hover {color: rgb(255, 84, 84);}
 
 .mal {
-    text-align: center;
-    max-width: 50%;
-    margin: auto;
-    margin-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
