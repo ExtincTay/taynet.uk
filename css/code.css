@@ -55,10 +55,12 @@ p {text-align: center;}
 }
 .creations {
     display: flex;
+    padding: 150px;
 }
 .creationtile {
     border-radius: 25px;
     border: white 4px solid;
     max-width: 700px;
     max-height: 350px;
+    margin: 40px;
 }
