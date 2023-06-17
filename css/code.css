@@ -48,3 +48,8 @@ nav>*:hover {color: rgb(255, 84, 84);}
     text-align: center;
 }
 p {text-align: center;}
+.gitscores {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
