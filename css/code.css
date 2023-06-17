@@ -53,3 +53,12 @@ p {text-align: center;}
     justify-content: center;
     justify-items: center;
 }
+.creations {
+    display: flex;
+}
+.creationtile {
+    border-radius: 25px;
+    border: white 4px solid;
+    max-width: 700px;
+    max-height: 350px;
+}
