@@ -61,9 +61,9 @@ p {text-align: center;}
 .creationtile {
     border-radius: 25px;
     border: white 4px solid;
-    max-width: 700px;
+    max-width: 600px;
     max-height: 350px;
-    width: 700px;
+    width: 600px;
     height: 350px;
     margin: 40px;
     background-size: contain;
