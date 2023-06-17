@@ -62,5 +62,8 @@ p {text-align: center;}
     border: white 4px solid;
     max-width: 700px;
     max-height: 350px;
+    width: 700px;
+    height: 350px;
     margin: 40px;
+    background-size: contain;
 }
