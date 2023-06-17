@@ -68,3 +68,14 @@ p {text-align: center;}
     margin: 40px;
     background-size: contain;
 }
+.creationtile h3 {
+    display: none;
+    bottom: 0;
+    text-align: center;
+    background-color: rgba(66, 66, 66, 0.575);
+}
+.creationtile:hover {
+    .creationtile h3 {
+        display: block;
+    }
+}
