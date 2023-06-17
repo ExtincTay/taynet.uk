@@ -57,6 +57,8 @@ p {text-align: center;}
     display: flex;
     padding-left: 150px;
     padding-right: 150px;
+    margin: auto;
+    width: 70%;
 }
 .creationtile {
     border-radius: 25px;
